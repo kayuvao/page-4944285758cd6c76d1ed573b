@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7cb82c5923d74cbe1ec1dbb8",
+  "owner": "kayuvao",
+  "repo": "page-4944285758cd6c76d1ed573b",
+  "title": "免流(MaTrix)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4944285758cd6c76d1ed573b",
+      "a": "免流(MaTrix)",
+      "b": "机场官网线路发布页",
+      "entity": "免流(MaTrix)",
+      "brand": "免流(MaTrix)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "563a6b10a93d6c0c25f6b807db4dd539c99dd19ffccf0f0269dbbf70f68de782",
+      "content": {
+        "primary_entity": "免流(MaTrix)",
+        "keyword1": "免流(MaTrix)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、3 台设备同时在线，适合个人日常使用；旗舰版每月 300GB 流量、5 台设备同时在线，配备 IPLC 专线并针对游戏加速优化；团队版每月 1000GB 流量、20 台设备同时在线，支持企业定制路由。按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配不同设备规模",
+          "AI_HERO_INTRO": "免流(MaTrix)提供海外网络加速订阅，覆盖个人、家庭与团队场景。三档套餐分别以流量、设备数和线路类型区分，用户可按需选择月付或年付，并在常见客户端中导入订阅使用。",
+          "AI_VISUAL_TITLE": "免流(MaTrix) 订阅套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案价格更优惠",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量和订阅周期三个角度选择套餐，可减少后续调整成本。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月适合轻度浏览，旗舰版 300GB/月覆盖流媒体与游戏，团队版 1000GB/月适合多成员共享。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档并发设备数，个人手机加电脑选基础版，多设备家庭或小型团队建议旗舰版及以上。",
+          "AI_FEATURE_TITLE_3": "年付更省",
+          "AI_FEATURE_TEXT_3": "基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用选年付可比月付节省开支。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "根据设备系统选择常见订阅客户端，导入订阅链接后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路能力上逐级提升，可参考下方数值按需选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "完成订阅选择与客户端配置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与所选客户端能否导入订阅，并留意同时在线设备数限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅链接，完成节点选择与连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "免流(MaTrix)套餐可以月付和年付吗？",
+          "AI_FAQ_ANSWER_1": "三档套餐均支持月付与年付，基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，可按使用时长选择。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时登录多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "同时在线设备数按套餐限制，基础版 3 台、旗舰版 5 台、团队版 20 台。同一设备切换客户端通常不额外占用名额，具体以订阅规则为准。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线节点，针对游戏延迟和流媒体播放做了优化，适合对实时性和画质有要求的用户。",
+          "AI_FAQ_QUESTION_4": "团队版支持自定义路由吗？",
+          "AI_FAQ_ANSWER_4": "团队版提供企业定制路由与专属客户经理服务，可依据团队网络结构协商路由方案，适合多设备协同办公场景。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "在所选客户端中粘贴订阅链接并更新节点列表即可，不同客户端操作路径略有差异，建议参照对应客户端的导入文档。",
+          "AI_CLOSING_TITLE": "选对档位，稳定加速",
+          "AI_CLOSING_TEXT": "按流量与设备数选定套餐，导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gxewv.cn",
+    "host": "gxewv.cn"
+  },
+  "file_hashes": {
+    "index.html": "10cfd2d97ed5f5f50c464bc9c2bc7da1ba3a97d9d6902a4b0ca5e04dc9994da5",
+    "sitemap.xml": "ee3962f615426ec9ca77ee1e95fd95dd80665af475f2d2f8bcde560b3d3e3ddc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5c38c1a4a138a8887b21814325b5496dd0ef3b65b76b6c26fd4f35815b94984e",
+    "robots.txt": "0414dc906f916bb8f7b657e88aa86eb9b92022c85fdb45dbb37b8ed160f95e6d",
+    "3694103cf5b1b47c0c0cb735d3fd65e2.txt": "511b2073ba340a8145f6cc92181a511ab442ba2b438f9dc33f99420c9f605d98"
+  },
+  "revision": "5d2829772eec55b70a9dc75c9a9701cc0a722cec0f79280b938e1ec7a14ef58e"
+}
